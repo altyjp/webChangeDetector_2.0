@@ -7,7 +7,7 @@ CSTSCお知らせbot2.0で実際に動作しているプログラムのソース
 - jsoup 1.10.1
   
 2. ライブラリを揃えたって？そんな簡単に動くと思わないで下さい。  
-`TweetStrings.java`の中身にある、以下の部分にえらい長いtwitter APIキーを入力します。
+`TweetStrings.java`の中身にある、以下の部分にえらい長いtwitter APIキーを入力します。  
 twitter APIキーが無いって？だったらググれば良いだろ！
 
 ```
@@ -18,7 +18,7 @@ twitter APIキーが無いって？だったらググれば良いだろ！
     private final String AccessTokenSecret = "";
 ```
 
-3. APIキーはどこだ？
+3. APIキーはどこだ？  
 `WebChangeDetector.java`にあるこの部分をコメントアウトしろ。OK?
 ```
 //ツイートを行う。 
