@@ -31,3 +31,5 @@ tweetStr.tweetString("理工シューティングの掲示板が更新されま�
     + "【更新されたスレッド】\n"
     + tweetStr.genTweetStr(newBBSdata));
 ```
+
+※この時点で、動作の確認は行っておりません。
